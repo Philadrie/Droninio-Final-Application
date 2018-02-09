@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">Встретьте наше приложение!</string>
+    <string name="level">"Уровень : "</string>
+    <string name="low">Низкий</string>
+    <string name="medium">Средняя</string>
+    <string name="total">Всего</string>
+    <string name="contact_us">"Свяжитесь с нами "</string>
+    <string name="report_bug">Сообщите об ошибке :</string>
+    <string name="about_us">Давайте поговорим о нас!</string>
+    <string name="description_work">Мы решили работать над созданием дрона, начиная с нуля, в течение 7-го семестра.</string>
+    <string name="group_work">Групповая работа</string>
+    <string name="taste_for_innovation">Вкус для инноваций</string>
+    <string name="custom_training">Индивидуальное обучение</string>
+    <string name="multi_subject">Мульти тема</string>
+    <string name="group_work_description">Droninio - это группа 7 учащихся в технической школе Политехнического колледжа Orléans от специальности ESPE (Вложенные Системы и Разработка Физики).</string>
+    <string name="taste_for_innovation_description">Все мы имеем различные фоны, но тот же интерес для вложенных систем и появляющихся технологий.</string>
+    <string name="custom_training_description">Мы были свободны выбирать любой предмет мы были заинтересованы, чтобы улучшать навыки, которые мы хотели.</string>
+    <string name="multi_subject_description">Мы выбрали существенный проект, который мы разделились в множественные темы чтобы работать над различными языками, устройствами и областями знания.</string>
+    <string name="here_is_our_team">Вот наша команда</string>
+    <string name="arduino_engineer">Инженер Arduino</string>
+    <string name="project_leader">Руководитель проекта</string>
+    <string name="web_engineer">Веб-разработчик</string>
+    <string name="android_engineer">Разработчик Android</string>
+    <string name="mechanical_engineer">Инженер-механик</string>
+    <string name="julien_bajon_description">Отвечая за программу Arduino я работал едва, чтобы делать муху трутня и устойчивый в любом условии . Я также написал часть относительно Wi-Fi, чтобы позволять приложению соединяться с трутнем .</string>
+    <string name="charles_fructuoso_description">Я был связью между различными командами и упорно трудился, чтобы мотивировать команду и конец вовремя. Моя цель состояла в том, чтобы держать группу, объединенной в терминах качества скорости работы и работы.</string>
+    <string name="romain_delmas_description">Член отдела Arduino я главным образом привел часть относительно адаптируемости окружающей среды. Я также изучил код относительно GPS.</string>
+    <string name="valentin_dubois_pivot_description">Я - тот, кто создавал сайт в Интернете. Я пробовал создавать лучший пользовательский опыт, так что вы можете наслаждаться исследовать наш сайт в Интернете. Я также изучил связь с применением .</string>
+    <string name="adrien_laliere_description">Отвечая за приложение вы были должны управлять вашим трутнем , я упорно трудился, чтобы создавать интуитивный и простой интерфейс. Я закодировал перевод Arduino в диспетчера Андроида.</string>
+    <string name="alexandre_saint_cricq_description">Моя работа должна была строить трутня и создавать различные электронные правления, полезные для нашего проекта. Я также сделал телеграфирование и различные монтажные схемы.</string>
+    <string name="yu_jiang_description">Моя работа должна была тянуть монтажные схемы и спаять компоненты на различных электронных картах. Я работал с Александром, чтобы идти быстрее и следовать за группой Arduino.</string>
+    <string name="partners">Партнеры</string>
+    <string name="press_drone">Нажмите на гул, чтобы управлять им!</string>
+    <string name="see_video">"Смотрите наше последнее видео "</string>
+    <string name="begin">Нажмите, чтобы инициализировать дрон!</string>
+</resources>

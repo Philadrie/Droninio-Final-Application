@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#3f03a9f4"
+    android:padding="5dp">
+
+    <ImageButton
+        android:id="@+id/gps"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:background="@drawable/route"/>
+
+
+    <ImageButton
+        android:id="@+id/database"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_toStartOf="@id/info"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/database"/>
+
+    <ImageButton
+        android:id="@+id/info"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/ic_info_black_48dp"/>
+
+    <ImageButton
+        android:id="@+id/begin"
+        android:layout_centerInParent="true"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="@drawable/play_button"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/begin"
+        android:layout_centerHorizontal="true"
+        android:text="@string/begin"
+        android:textSize="20sp"
+        android:textColor="#1e3e67"/>
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:text="@string/level"
+        android:textColor="#1e3e67"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/TextValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/text"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:text="@string/medium"
+        android:textColor="#1e3e67"
+        android:textSize="20sp"/>
+
+    <SeekBar
+        android:id="@+id/seek1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_above="@id/TextValue"
+        android:progress="50"
+        android:progressTint="#1c3e67"
+        android:thumbTint="#1c3e67"/>
+</RelativeLayout>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Master_Droninio</string>
+    <string name="welcome">Welcome in our app!</string>
+    <string name="press_drone">Press the drone to manage it!</string>
+    <string name="begin">Press to initialize drone!</string>
+    <string name="level">Level : </string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="total">Total</string>
+    <string name="see_video">"See our lastest video "</string>
+    <string name="youtube" translatable="false">: Youtube</string>
+    <string name="youtube_url" translatable="false">https://www.youtube.com/channel/UCavCiH1pzMiFcFY7TnZd3GA/featured</string>
+    <string name="contact_us">Contact us</string>
+    <string name="help_url" translatable="false">: Droninio website</string>
+    <string name="droninio_contact" translatable="false">http://droninio.ovh/contact.php</string>
+    <string name="report_bug">Report a bug :</string>
+    <string name="mail_bug" translatable="false">\n android@droninio.ovh\n</string>
+    <string name="about_us">"Let's talk about us! "</string>
+    <string name="description_work">We decided to work on the creation of a drone starting from scratch for our 7th semester.</string>
+    <string name="group_work">Group Work</string>
+    <string name="group_work_description">Droninio team is a group of 7 students in the engineering school of Polytech Orléans from the specialty ESPE (Embedded Systems and Physics Engineering).</string>
+    <string name="taste_for_innovation">Taste for Innovation</string>
+    <string name="taste_for_innovation_description">We all have different backgrounds but the same interest for embedded systems and emerging technologies.</string>
+    <string name="custom_training">Custom Training</string>
+    <string name="multi_subject">Multi Subject</string>
+    <string name="multi_subject_description">We have chosen a substantial project which we divided into multiple subjects in order to work on different languages, devices and fields of knowledge.</string>
+    <string name="here_is_our_team">Here is our team</string>
+    <string name="julien_bajon" translatable="false">Julien Bajon</string>
+    <string name="charles_fructuoso" translatable="false">Charles Fructuoso</string>
+    <string name="romain_delmas" translatable="false">Romain Delmas</string>
+    <string name="valentin_dubois_pivot" translatable="false">Valentin Dubois-Pivot</string>
+    <string name="adrien_laliere" translatable="false">Adrien Laliere</string>
+    <string name="alexandre_saint_cricq" translatable="false">Alexandre Saint-Cricq</string>
+    <string name="yu_jiang" translatable="false">Yu Jiang</string>
+    <string name="arduino_engineer">Arduino Engineer</string>
+    <string name="project_leader">Project Leader</string>
+    <string name="web_engineer">Web Engineer</string>
+    <string name="android_engineer">Android Engineer</string>
+    <string name="mechanical_engineer">Mechanical Engineer</string>
+    <string name="julien_bajon_description">In charge of the Arduino program I worked hardly to make the drone fly and stable in any condition. I also wrote the part concerning the Wi-Fi to allow the app to connect to the drone.</string>
+    <string name="charles_fructuoso_description">I was the link between the different teams and worked hard to motivate the team and finish in time. My goal was to keep the group united in terms of quality of work and work speed.</string>
+    <string name="romain_delmas_description">Member of the Arduino department I mainly drove the part concerning the adaptability of the environment. I also looked into the code about the GPS.</string>
+    <string name="valentin_dubois_pivot_description">I am the one who created the website. I tried to create the best user experience so you can enjoy exploring our website. I also studied the connection with the app.</string>
+    <string name="adrien_laliere_description">In charge of the app you needed to control your drone, I worked hard to create an intuitive and simple interface. I coded the translation of the Arduino into an Android controller.</string>
+    <string name="alexandre_saint_cricq_description">My job was to build the drone and create the different electronic boards useful for our project. I also made the cabling and different wiring diagrams.</string>
+    <string name="yu_jiang_description">My job was to draw the wiring diagrams and to solder the components on the different electronic cards. I worked with Alexandre to go faster and follow the Arduino group.</string>
+    <string name="partners">Partners</string>
+    <string name="custom_training_description">We were free to choose any subject we were interested in to improve the skills we wanted.</string>
+</resources>

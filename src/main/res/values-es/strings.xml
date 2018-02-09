@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">¡Dé la bienvenida en nuestro app!</string>
+    <string name="level">Nivel :</string>
+    <string name="low">Bajo</string>
+    <string name="medium">Medio</string>
+    <string name="total">Total</string>
+    <string name="contact_us">"Póngase en contacto con nosotros "</string>
+    <string name="report_bug">Haga un informe un bicho :</string>
+    <string name="about_us">"¡Vaya a la conversación sobre nosotros! "</string>
+    <string name="description_work">Decidimos trabajar sobre la creación de un zumbido que comienza desde el principio para nuestro 7o semestre.</string>
+    <string name="group_work">Trabajo de Grupo</string>
+    <string name="taste_for_innovation">Gusto a Innovación</string>
+    <string name="custom_training">Educación De Encargo</string>
+    <string name="multi_subject">Sujeto Multi</string>
+    <string name="group_work_description">Droninio el equipo es un grupo de 7 estudiantes en la escuela de ingeniería de Politecnología Orléans de la especialidad ESPE (Sistemas Integrados y la Ingeniería de Física).</string>
+    <string name="taste_for_innovation_description">Tenemos fondos diferentes, pero el mismo interés para sistemas integrados y tecnologías emergentes.</string>
+    <string name="custom_training_description">Nosotros éramos libres(gratis) de escoger cualquier sujeto en el que estuvimos interesados mejorar las habilidades que quisimos.</string>
+    <string name="multi_subject_description">Hemos escogido un proyecto sustancial que dividimos en múltiple sujeta para trabajar sobre lenguas diferentes, dispositivos y campos de conocimiento.</string>
+    <string name="here_is_our_team">Aquí está nuestro equipo</string>
+    <string name="arduino_engineer">Arduino Ingeniero</string>
+    <string name="project_leader">Líder De Proyecto</string>
+    <string name="web_engineer">Ingeniero De Web</string>
+    <string name="android_engineer">Ingeniero de Android</string>
+    <string name="mechanical_engineer">Ingeniero Mecánico</string>
+    <string name="julien_bajon_description">Responsable del programa Arduino trabajé apenas para hacer la mosca de zumbido y estable en cualquier condición. También escribí la parte que concierne el Wi-Fi para permitir al app para unirme al zumbido.</string>
+    <string name="charles_fructuoso_description">Yo era el eslabón entre los equipos diferentes y trabajé mucho para motivar el equipo y el fin a tiempo. Mi objetivo era de guardar(mantener) el grupo unido en términos de calidad de la velocidad de trabajo y trabajo.</string>
+    <string name="romain_delmas_description">El miembro del departamento Arduino principalmente conduje la parte que concierne la adaptabilidad del entorno(del medio ambiente). También examiné el código sobre el GPS(el sistema de posicionamiento global).</string>
+    <string name="valentin_dubois_pivot_description">Soy el que que creó el sitio web. Traté de crear la mejor experiencia de usuario entonces usted puede disfrutar explorando nuestro sitio web. También estudié la conexión con el uso.</string>
+    <string name="adrien_laliere_description">Responsable del app usted tuvo que controlar su zumbido, trabajé mucho para crear un interfaz intuitivo y simple. Cifré la traducción del Arduino en un regulador de Androide.</string>
+    <string name="alexandre_saint_cricq_description">Mi trabajo debía construir el zumbido y crear la pasarela diferente electrónica útil para nuestro proyecto. También hice el cablegrafiar y diagramas de cableado diferentes.</string>
+    <string name="yu_jiang_description">Mi trabajo debía dibujar los diagramas de cableado y soldar los componentes sobre las tarjetas diferentes electrónicas. Trabajé con Alexandre para ir más rápido y seguir el grupo Arduino.</string>
+    <string name="partners">Compañeros</string>
+    <string name="press_drone">¡Pulsa el dron para gestionarlo!</string>
+    <string name="see_video">"Vea nuestro último video "</string>
+    <string name="begin">¡Presiona para inicializar el dron!</string>
+</resources>

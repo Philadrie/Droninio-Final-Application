@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Bienvenue dans notre application !</string>
+    <string name="level">Niveau :</string>
+    <string name="low">Faible</string>
+    <string name="medium">Moyen</string>
+    <string name="total">Total</string>
+    <string name="contact_us">"Nous contacter "</string>
+    <string name="report_bug">Signaler un bug :</string>
+    <string name="about_us">Parlons de nous !</string>
+    <string name="description_work">Nous avons décidé de travailler sur la création d\'un drone à partir de zéro pour notre 7ème semestre.</string>
+    <string name="group_work">Travail de Groupe</string>
+    <string name="taste_for_innovation">Goût pour l\'Innovation</string>
+    <string name="custom_training">Entrainement Personnalisé</string>
+    <string name="multi_subject">Multi Sujet</string>
+    <string name="group_work_description">L\'équipe Droninio est un groupe de 7 étudiants de l\'école d\'ingénieurs de Polytech Orléans issus de la spécialité GPSE (Génie Physique et Systèmes Embarqués).</string>
+    <string name="taste_for_innovation_description">Nous avons tous des antécédents différents mais le même intérêt pour les systèmes embarqués et les technologies émergentes.</string>
+    <string name="custom_training_description">Nous étions libres de choisir n\'importe quel sujet qui nous intéressait pour améliorer les compétences que nous voulions.</string>
+    <string name="multi_subject_description">Nous avons choisi un projet substantiel que nous avons divisé en plusieurs sujets afin de travailler sur différents langages, dispositifs et champs de connaissance.</string>
+    <string name="here_is_our_team">Voici notre équipe</string>
+    <string name="arduino_engineer">Ingénieur Arduino</string>
+    <string name="project_leader">Chef de Projet</string>
+    <string name="web_engineer">Ingénieur Web</string>
+    <string name="android_engineer">Ingénieur Android</string>
+    <string name="mechanical_engineer">Ingénieur Mécanique</string>
+    <string name="julien_bajon_description">En charge du programme Arduino, j\'ai travaillé beaucoup pour rendre le drone volant et stable dans toutes les conditions. J\'ai également écrit la partie concernant le Wi-Fi pour permettre à l\'application de se connecter au drone.</string>
+    <string name="charles_fructuoso_description">J\'étais le lien entre les différentes équipes et j\'ai travaillé dur pour motiver l\'équipe et finir à temps. Mon objectif était de garder le groupe uni en termes de qualité de travail et de rapidité de travail.</string>
+    <string name="romain_delmas_description">Membre du département Arduino j\'ai principalement piloté la partie concernant l\'adaptabilité de l\'environnement. J\'ai aussi regardé dans le code sur le GPS.</string>
+    <string name="valentin_dubois_pivot_description">Je suis celui qui a créé le site Web. J\'ai essayé de créer la meilleure expérience utilisateur afin que vous puissiez profiter de notre site Web. J\'ai également étudié la connexion avec l\'application.</string>
+    <string name="adrien_laliere_description">En charge de l\'application dont vous avez besoin pour contrôler votre drone, j\'ai travaillé dur pour créer une interface intuitive et simple. J\'ai codé la traduction de l\'Arduino dans un contrôleur Android.</string>
+    <string name="alexandre_saint_cricq_description">Mon travail consistait à construire le drone et créer les différentes cartes électroniques utiles pour notre projet. J\'ai également réalisé le câblage et les différents schémas de câblage.</string>
+    <string name="yu_jiang_description">Mon travail consistait à dessiner les schémas de câblage et à souder les composants sur les différentes cartes électroniques. J\'ai travaillé avec Alexandre pour aller plus vite et suivre le groupe Arduino.</string>
+    <string name="partners">Partenaires</string>
+    <string name="app_name">Droninio</string>
+    <string name="press_drone">Appuyez sur le drone pour le gérer!</string>
+    <string name="see_video">"Regardé notre dernière vidéo "</string>
+    <string name="begin">Appuyez pour initialiser drone !</string>
+</resources>

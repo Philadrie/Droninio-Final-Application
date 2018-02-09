@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">ونرحب فى التطبيق!</string>
+    <string name="level">المستوى:</string>
+    <string name="low">منخفض</string>
+    <string name="medium">متوسطة</string>
+    <string name="total">مجموع</string>
+    <string name="contact_us">"الاتصال بنا "</string>
+    <string name="report_bug">الابلاغ عن خطا:</string>
+    <string name="about_us">خلينا نحكى!</string>
+    <string name="description_work">قررنا العمل على انشاء طائرة بدون طيار بدات من الصفر فى السابعة والربع.</string>
+    <string name="group_work">فريق عمل</string>
+    <string name="taste_for_innovation">تذوق للابتكار</string>
+    <string name="custom_training">تدريب مخصص</string>
+    <string name="multi_subject">موضوع متعدد</string>
+    <string name="group_work_description">Droninio تدريب مخصصة متعددة الموضوع فريق مجموعة ال 7 طلاب فى كلية الهندسة Polytech Orleans وتخصص وبخاصة (بالنظم والفيزياء والهندسة).</string>
+    <string name="taste_for_innovation_description">خلفيات جميعا ولكن نفس الاهتمام بالنظم التكنولوجيات الجديدة والمستجدة.</string>
+    <string name="custom_training_description">ونحن احرار فى اختيار اى موضوع كنا مهتمين لتحسين مهارات اردناه.</string>
+    <string name="multi_subject_description">لقد اخترنا مشروعا هاما الذى ينقسم الى عدة مواضيع للعمل فى مختلف اللغات والاجهزة حقول المعرفة.</string>
+    <string name="here_is_our_team">هنا فريقنا</string>
+    <string name="arduino_engineer">Arduino المهندس</string>
+    <string name="project_leader">رئيس المشروع</string>
+    <string name="web_engineer">المهندس الويب</string>
+    <string name="android_engineer">مهندس</string>
+    <string name="mechanical_engineer">ميكانيكى Android المهندس</string>
+    <string name="julien_bajon_description">"المسئول عن برنامج Arduino عملت جاهدا ان تجعل بدون طيار تحلق ومستقرة فى اى ظرف. كما كتبت الجزء المتعلق بالانترنت للسماح التطبيق للاتصال بدون طيار. "</string>
+    <string name="charles_fructuoso_description">وكنت بين فرق مختلفة وعملوا بجد من اجل تحفيز الفريق الانتهاء فى الوقت المناسب. هدفى هو ابقاء مجموعة من حيث نوعية العمل بسرعة.</string>
+    <string name="romain_delmas_description">عضو ادارة Arduino انا اساسا قاد تخص التكيف مع البيئة. كما نظروا فى المدونة عن GPS.</string>
+    <string name="valentin_dubois_pivot_description">انا الشخص الذى انشا على الانترنت. حاولت ايجاد افضل تجربة المستخدم بحيث يمكنك الاستمتاع استكشاف موقعنا على الويب. كما درس فيما يتصل بتطبيق.</string>
+    <string name="adrien_laliere_description">المسؤول عن الوكالة تحتاج الى التحكم فى الطائرة, عملت جاهدة على تهيئة واجهة سهلة وبسيطة. انا مشفر Arduino وترجمتها الى نظام التشغيل Android المراقب المالى.</string>
+    <string name="alexandre_saint_cricq_description">مهمتى لبناء بدون طيار وخلق مختلف اللوحات الالكترونية مفيدا لعملنا فى المشروع. وقدمت ايضا الكبلات ورسومات بيانية مختلفة.</string>
+    <string name="yu_jiang_description">مهمتى ان يوجه ورسومات بيانية, اللحام المكونات على مختلف البطاقات الالكترونية. وعملت مع الكسندر بالمضى اسرع واتبع Arduino.</string>
+    <string name="partners">الشركاء</string>
+    <string name="press_drone">اضغط على الطائرات بدون طيار لإدارة ذلك!</string>
+    <string name="see_video">"شاهد أحدث فيديو "</string>
+    <string name="begin">اضغط على تهيئة الطائرة بدون طيار!</string>
+</resources>

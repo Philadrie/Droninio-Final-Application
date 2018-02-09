@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">Benvenuto nella nostra app!</string>
+    <string name="level">Livello :</string>
+    <string name="low">Basso</string>
+    <string name="medium">Medio</string>
+    <string name="total">Totale</string>
+    <string name="contact_us">"Contattaci "</string>
+    <string name="report_bug">Segnalare un bug :</string>
+    <string name="about_us">Parliamo di noi!</string>
+    <string name="description_work">Abbiamo deciso di lavorare alla creazione di un drone partendo da zero per il nostro 7 ° semestre.</string>
+    <string name="group_work">Lavoro di Gruppo</string>
+    <string name="custom_training">Addestramento Personalizzato</string>
+    <string name="group_work_description">Abbiamo tutti esperienze diverse ma lo stesso interesse per i sistemi embedded e le tecnologie emergenti.</string>
+    <string name="taste_for_innovation">Gusto per l\'Innovazione</string>
+    <string name="multi_subject">Multi Soggetto</string>
+    <string name="taste_for_innovation_description">Abbiamo tutti esperienze diverse ma lo stesso interesse per i sistemi embedded e le tecnologie emergenti.</string>
+    <string name="custom_training_description">Siamo stati liberi di scegliere qualsiasi argomento che ci interessava per migliorare le competenze che volevamo.</string>
+    <string name="multi_subject_description">Abbiamo scelto un progetto sostanziale che abbiamo diviso in più materie per lavorare su diverse lingue, dispositivi e campi di conoscenza.</string>
+    <string name="here_is_our_team">Ecco la nostra squadra</string>
+    <string name="arduino_engineer">Ingegnere di Arduino</string>
+    <string name="project_leader">Capo Progetto</string>
+    <string name="web_engineer">Web Ingegnere</string>
+    <string name="android_engineer">Ingegnere Android</string>
+    <string name="mechanical_engineer">Ingegnere Meccanico</string>
+    <string name="julien_bajon_description">Responsabile del programma Arduino ho lavorato duramente per far volare il drone e stabilizzarlo in qualsiasi condizione. Ho anche scritto la parte riguardante il Wi-Fi per consentire all\'app di connettersi al drone.</string>
+    <string name="charles_fructuoso_description">Sono stato il collegamento tra le diverse squadre e ho lavorato duro per motivare la squadra e finire in tempo. Il mio obiettivo era quello di mantenere unito il gruppo in termini di qualità del lavoro e velocità del lavoro.</string>
+    <string name="romain_delmas_description">Membro del dipartimento di Arduino, ho guidato principalmente la parte riguardante l\'adattabilità dell\'ambiente. Ho anche esaminato il codice relativo al GPS.</string>
+    <string name="valentin_dubois_pivot_description">Io sono colui che ha creato il sito web. Ho provato a creare la migliore esperienza utente in modo che tu possa divertirti ad esplorare il nostro sito web. Ho anche studiato la connessione con l\'app.</string>
+    <string name="adrien_laliere_description">Responsabile dell\'app che doveva controllare il tuo drone, ho lavorato duramente per creare un\'interfaccia intuitiva e semplice. Ho codificato la traduzione di Arduino in un controller Android.</string>
+    <string name="alexandre_saint_cricq_description">Il mio compito era costruire il drone e creare le diverse schede elettroniche utili per il nostro progetto. Ho anche realizzato il cablaggio e diversi schemi elettrici.</string>
+    <string name="yu_jiang_description">Il mio compito era disegnare gli schemi elettrici e saldare i componenti sulle diverse schede elettroniche. Ho lavorato con Alexandre per andare più veloce e seguire il gruppo di Arduino.</string>
+    <string name="partners">Partner</string>
+    <string name="press_drone">Premi il drone per gestirlo!</string>
+    <string name="see_video">"Guarda il nostro ultimo video "</string>
+    <string name="begin">Premi per inizializzare il drone!</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">Willkommen in unserer App!</string>
+    <string name="level">Niveau :</string>
+    <string name="low">Niedrig</string>
+    <string name="medium">Mittel</string>
+    <string name="total">Gesamt</string>
+    <string name="contact_us">"Kontaktiere uns "</string>
+    <string name="report_bug">Melde einen technischen Fehler :</string>
+    <string name="about_us">Lass uns über uns reden!</string>
+    <string name="description_work">Wir haben uns entschieden, für das 7. Semester an der Erstellung einer Drohne von Grund auf zu arbeiten.</string>
+    <string name="group_work">Gruppenarbeit</string>
+    <string name="group_work_description">Droninio Team ist eine Gruppe von 7 Studenten in der Ingenieurschule von Polytech Orléans von der Spezialität ESPE (Embedded Systems und Physics Engineering).</string>
+    <string name="taste_for_innovation">Geschmack für Innovation</string>
+    <string name="taste_for_innovation_description">Wir haben alle unterschiedliche Hintergründe, aber das gleiche Interesse für eingebettete Systeme und neue Technologien.</string>
+    <string name="custom_training">Benutzerdefiniertes Training</string>
+    <string name="multi_subject">Mehrfaches Thema</string>
+    <string name="multi_subject_description">Wir haben ein umfangreiches Projekt ausgewählt, das wir in mehrere Fächer aufgeteilt haben, um an verschiedenen Sprachen, Geräten und Wissensgebieten zu arbeiten.</string>
+    <string name="here_is_our_team">Hier ist unser Team</string>
+    <string name="arduino_engineer">Arduino-Ingenieur</string>
+    <string name="project_leader">Projektleiter</string>
+    <string name="web_engineer">Web Engineer</string>
+    <string name="android_engineer">Android Engineer</string>
+    <string name="mechanical_engineer">Maschinenbauingenieur</string>
+    <string name="julien_bajon_description">Als Verantwortlicher für das Arduino-Programm arbeitete ich kaum daran, die Drohne unter allen Umständen zu fliegen und zu stabilisieren. Ich habe auch den Teil geschrieben, der das WLAN betrifft, damit sich die App mit der Drohne verbinden kann.</string>
+    <string name="charles_fructuoso_description">Ich war die Verbindung zwischen den verschiedenen Teams und arbeitete hart, um das Team zu motivieren und rechtzeitig zu beenden. Mein Ziel war es, die Gruppe in Bezug auf Arbeitsqualität und Arbeitsgeschwindigkeit zusammenzuhalten.</string>
+    <string name="romain_delmas_description">Mitglied der Arduino-Abteilung habe ich hauptsächlich den Teil bezüglich der Anpassungsfähigkeit der Umgebung geleitet. Ich habe mir auch den Code über das GPS angeschaut.</string>
+    <string name="valentin_dubois_pivot_description">Ich bin derjenige, der die Website erstellt hat. Ich habe versucht, die beste Nutzererfahrung zu schaffen, damit Sie die Website erkunden können. Ich habe auch die Verbindung mit der App untersucht.</string>
+    <string name="adrien_laliere_description">Als Verantwortlicher für die App, die Sie zur Steuerung Ihrer Drohne benötigten, arbeitete ich intensiv an einer intuitiven und einfachen Benutzeroberfläche. Ich habe die Übersetzung des Arduino in einen Android-Controller codiert.</string>
+    <string name="alexandre_saint_cricq_description">Meine Aufgabe war es, die Drohne zu bauen und die verschiedenen elektronischen Boards zu erstellen, die für unser Projekt nützlich sind. Ich habe auch die Verkabelung und verschiedene Schaltpläne erstellt.</string>
+    <string name="yu_jiang_description">Meine Aufgabe war es, die Schaltpläne zu zeichnen und die Komponenten auf den verschiedenen elektronischen Karten zu löten. Ich arbeitete mit Alexandre, um schneller zu gehen und der Arduino-Gruppe zu folgen.</string>
+    <string name="partners">Partner</string>
+    <string name="custom_training_description">Wir waren frei, jedes Thema zu wählen, an dem wir interessiert waren, um die Fähigkeiten zu verbessern, die wir wollten.</string>
+    <string name="press_drone">Drücken Sie die Drohne, um es zu verwalten!</string>
+    <string name="see_video">"Sehen Sie unser letztes Video "</string>
+    <string name="begin">Drücken Sie, um die Drohne zu initialisieren!</string>
+</resources>

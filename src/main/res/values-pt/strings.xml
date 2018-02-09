@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droninio</string>
+    <string name="welcome">Bem-vindo em nosso app!</string>
+    <string name="level">Nível :</string>
+    <string name="low">Baixo</string>
+    <string name="medium">Médio</string>
+    <string name="total">Total</string>
+    <string name="contact_us">"Contate-Nos "</string>
+    <string name="report_bug">Reportar um erro :</string>
+    <string name="multi_subject_description">Nós escolhemos um projeto significativo que nós dividimos em assuntos múltiplos para trabalhar em idiomas diferentes, dispositivos e campos de conhecimento.</string>
+    <string name="custom_training_description">Nós éramos grátis para escolher qualquer assunto nós estávamos interessados dentro melhorar as habilidades nós quisemos.</string>
+    <string name="taste_for_innovation_description">Todos nós temos fundos diferentes mas o mesmo interesse por sistemas embutidos e tecnologias emergindo.</string>
+    <string name="about_us">Falemos sobre nós!</string>
+    <string name="description_work">Nós decidimos trabalhar na criação de um zangão a partir de arranhão durante nosso 7º semestre.</string>
+    <string name="group_work">Trabalho de Grupo</string>
+    <string name="taste_for_innovation">Gosto para Inovação</string>
+    <string name="custom_training">Treinamento de Costume</string>
+    <string name="multi_subject">Multi Assunto</string>
+    <string name="group_work_description">Time de Droninio é um grupo de 7 estudantes na escola de engenharia de Orléans de Polytech da especialidade ESPE (Sistemas Embutidos e Engenharia de Físicas).</string>
+    <string name="here_is_our_team">Aqui é nosso time</string>
+    <string name="arduino_engineer">Arduino Engenheiro</string>
+    <string name="project_leader">Projete o Líder</string>
+    <string name="web_engineer">Engenheiro de Web</string>
+    <string name="android_engineer">Engenheiro de Android</string>
+    <string name="mechanical_engineer">Engenheiro Mecânico</string>
+    <string name="julien_bajon_description">Em custo do programa de Arduino eu trabalhei para fazer o zangão voar quase não e estável em qualquer condição. Eu também escrevi a parte relativo ao Wi-Fi permitir o app para conectar ao zangão.</string>
+    <string name="charles_fructuoso_description">Eu era a ligação entre os times diferentes e trabalhei difícil de motivar o time e terminar a tempo. Minha meta era manter o grupo unido em termos de qualidade de trabalho e velocidade de trabalho.</string>
+    <string name="romain_delmas_description">Sócio do departamento de Arduino eu dirigi a parte principalmente relativo à adaptabilidade do ambiente. Eu também olhei no código sobre o GPS.</string>
+    <string name="valentin_dubois_pivot_description">Eu sou o que criou o site da Web. Eu tentei criar a melhor experiência de usuário assim você pode desfrutar explorando nosso site da Web. Eu também estudei a conexão com a aplicação.</string>
+    <string name="adrien_laliere_description">Em custo do app você precisou controlar seu zangão, eu trabalhei difícil de criar uma interface intuitiva e simples. Eu codifiquei a tradução do Arduino em um controlador de Andróide.</string>
+    <string name="alexandre_saint_cricq_description">Meu trabalho era construir o zangão e criar as tábuas eletrônicas diferentes útil para nosso projeto. Eu também fiz a ligação e diagramas de instalação elétrica diferentes.</string>
+    <string name="yu_jiang_description">Meu trabalho era puxar a instalação elétrica esquematiza e soldar os componentes nos cartões eletrônicos diferentes. Eu trabalhei com Alexandre ir mais rápido e seguir o grupo de Arduino.</string>
+    <string name="partners">Sócios</string>
+    <string name="press_drone">Pressione o zangão para gerenciá-lo!</string>
+    <string name="see_video">"Veja nosso último vídeo "</string>
+    <string name="begin">Pressione para inicializar o drone!</string>
+</resources>
